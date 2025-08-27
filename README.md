@@ -3,7 +3,7 @@
 Hello fellow developers and learners, 👋  
 
 Welcome to **"Software Design Principles Fundamentals"**!  
-This resource walks you through the most important principles of professional software design with practical examples in JavaScript. While the examples are written in JS for simplicity, the concepts apply to any programming language or paradigm.  
+This mini handbook walks you through the most important principles of professional software design with practical examples in JavaScript. While the examples are written in JS for simplicity, the concepts apply to any programming language or paradigm.  
 
 
 ## 📂 Repository Content
